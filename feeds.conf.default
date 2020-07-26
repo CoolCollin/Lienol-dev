@@ -1,4 +1,4 @@
-src-git kenzo https://github.com/kenzok8/openwrt-packages
+#src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git packages https://github.com/Lienol/openwrt-packages.git;dev-master
 src-git routing https://git.openwrt.org/feed/routing.git
 src-git telephony https://git.openwrt.org/feed/telephony.git
